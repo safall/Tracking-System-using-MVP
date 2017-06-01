@@ -1,7 +1,4 @@
 # Tracking-System-using-MVP
-
-
-    Location Updates
 ================
 
 Demonstrates how to use the Fused Location Provider API to get updates about a
