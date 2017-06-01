@@ -3,7 +3,8 @@
 
 Demonstrates how to use the Fused Location Provider API to get updates about a
 device's location. The Fused Location Provider is part of the Google Play
-services Location APIs.
+services Location APIs. This was originally in the mvc pattern to which I personally modified into
+MVP architecture so that people can understand both MVP as well as the Fused Location API.
 
 
 Introduction
